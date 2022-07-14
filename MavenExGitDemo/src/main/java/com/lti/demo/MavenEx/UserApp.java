@@ -4,7 +4,7 @@ public class UserApp {
 	public static void main(String[] args) {
 		
 		System.out.println(" person clas ...");
-		System.out.println(" sadsad");
+		
 	}
 
 }
